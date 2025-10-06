@@ -8,3 +8,6 @@ const obj = {
 obj.a = 67;
 
 var pepega = 'omega'; // can change but bruh, it exists before declaration
+
+let arr = ['we', 'ball', 'out', 'here'];
+console.log(arr[2]);
